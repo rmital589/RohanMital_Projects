@@ -1,0 +1,19 @@
+module Complete_MIPS(CLK, rst, SW0,SW1,SW2,btnL,btnR,seg1,seg2,seg3,seg4);
+  // Will need to be modified to add functionality
+  input CLK;
+  input rst;
+  input SW0,SW1,SW2,btnL,btnR;
+  output [6:0] seg1,seg2,seg3,seg4;
+  wire [15:0] readreg;
+  wire CS, WE;
+  wire [6:0] ADDR;
+  wire [31:0] Mem_Bus;
+
+  MIPS CPU(SW0,SW1,SW2,btnL,btnR, CLK, rst, CS, WE, ADDR, Mem_Bus,readreg);
+  sevenseg s1 ([3:0] readreg,seg1);
+  sevenseg s2 ([7:4] readreg,seg2);
+  sevenseg s3 ([11:8] readreg,seg3);
+  sevenseg s4 ([15:12] readreg,seg4);
+  Memory MEM(CS, WE, CLK, ADDR, Mem_Bus);
+
+endmodule

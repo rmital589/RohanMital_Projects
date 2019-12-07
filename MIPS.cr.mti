@@ -1,0 +1,36 @@
+C:/Users/rmita/Desktop/EE460M/Mital_Lab7/MIPS.v {1 {vlog -work work -stats=none C:/Users/rmita/Desktop/EE460M/Mital_Lab7/MIPS.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MIPS
+
+Top level modules:
+	MIPS
+
+} {} {}} C:/Users/rmita/Desktop/EE460M/Mital_Lab7/Clkdivider.v {1 {vlog -work work -stats=none C:/Users/rmita/Desktop/EE460M/Mital_Lab7/Clkdivider.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Clkdivider
+
+Top level modules:
+	Clkdivider
+
+} {} {}} C:/Users/rmita/Desktop/EE460M/Mital_Lab7/Memory.v {1 {vlog -work work -stats=none C:/Users/rmita/Desktop/EE460M/Mital_Lab7/Memory.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Memory
+
+Top level modules:
+	Memory
+
+} {} {}} C:/Users/rmita/Desktop/EE460M/Mital_Lab7/REG.v {1 {vlog -work work -stats=none C:/Users/rmita/Desktop/EE460M/Mital_Lab7/REG.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module REG
+
+Top level modules:
+	REG
+
+} {} {}} C:/Users/rmita/Desktop/EE460M/Mital_Lab7/Compelete_MIPS.v {1 {vlog -work work -stats=none C:/Users/rmita/Desktop/EE460M/Mital_Lab7/Compelete_MIPS.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Complete_MIPS
+
+Top level modules:
+	Complete_MIPS
+
+} {} {}}

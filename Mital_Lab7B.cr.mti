@@ -1,0 +1,50 @@
+C:/Users/rmita/Desktop/EE460M/Mital_Lab7B/MIPS.v {1 {vlog -work work -stats=none C:/Users/rmita/Desktop/EE460M/Mital_Lab7B/MIPS.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MIPS
+
+Top level modules:
+	MIPS
+
+} {} {}} C:/Users/rmita/Desktop/EE460M/Mital_Lab7B/ClkDivider.v {1 {vlog -work work -stats=none C:/Users/rmita/Desktop/EE460M/Mital_Lab7B/ClkDivider.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ClkDivider
+
+Top level modules:
+	ClkDivider
+
+} {} {}} C:/Users/rmita/Desktop/EE460M/Mital_Lab7B/REG.v {1 {vlog -work work -stats=none C:/Users/rmita/Desktop/EE460M/Mital_Lab7B/REG.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module REG
+
+Top level modules:
+	REG
+
+} {} {}} C:/Users/rmita/Desktop/EE460M/Mital_Lab7B/Compelete_MIPS.v {1 {vlog -work work -stats=none C:/Users/rmita/Desktop/EE460M/Mital_Lab7B/Compelete_MIPS.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Complete_MIPS
+
+Top level modules:
+	Complete_MIPS
+
+} {} {}} C:/Users/rmita/Desktop/EE460M/Mital_Lab7B/hexto7segment.v {1 {vlog -work work -stats=none C:/Users/rmita/Desktop/EE460M/Mital_Lab7B/hexto7segment.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module hexto7segment
+
+Top level modules:
+	hexto7segment
+
+} {} {}} C:/Users/rmita/Desktop/EE460M/Mital_Lab7B/Mem.v {1 {vlog -work work -stats=none C:/Users/rmita/Desktop/EE460M/Mital_Lab7B/Mem.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Memory
+
+Top level modules:
+	Memory
+
+} {} {}} C:/Users/rmita/Desktop/EE460M/Mital_Lab7B/four_digit_out.v {1 {vlog -work work -stats=none C:/Users/rmita/Desktop/EE460M/Mital_Lab7B/four_digit_out.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FourDigitOut
+
+Top level modules:
+	FourDigitOut
+
+} {} {}}

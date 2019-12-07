@@ -1,0 +1,78 @@
+C:/Users/rmita/Desktop/EE460M/Mital_Lab4/hexto7segment.v {1 {vlog -work work -stats=none C:/Users/rmita/Desktop/EE460M/Mital_Lab4/hexto7segment.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module hexto7segment
+
+Top level modules:
+	hexto7segment
+
+} {} {}} C:/Users/rmita/Desktop/EE460M/Mital_Lab4/2BitBCD.v {1 {vlog -work work -stats=none C:/Users/rmita/Desktop/EE460M/Mital_Lab4/2BitBCD.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FourDigBCD
+
+Top level modules:
+	FourDigBCD
+
+} {} {}} C:/Users/rmita/Desktop/EE460M/Mital_Lab4/BCD_Adder_16.v {1 {vlog -work work -stats=none C:/Users/rmita/Desktop/EE460M/Mital_Lab4/BCD_Adder_16.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module BCD_Adder_16
+
+Top level modules:
+	BCD_Adder_16
+
+} {} {}} C:/Users/rmita/Desktop/EE460M/Mital_Lab4/four_digit_out.v {1 {vlog -work work -stats=none C:/Users/rmita/Desktop/EE460M/Mital_Lab4/four_digit_out.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FourDigitOut
+
+Top level modules:
+	FourDigitOut
+
+} {} {}} C:/Users/rmita/Desktop/EE460M/Mital_Lab4/BCD_Adder_4.v {1 {vlog -work work -stats=none C:/Users/rmita/Desktop/EE460M/Mital_Lab4/BCD_Adder_4.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module BCD_Adder_4
+
+Top level modules:
+	BCD_Adder_4
+
+} {} {}} C:/Users/rmita/Desktop/EE460M/Mital_Lab4/test.v {1 {vlog -work work -stats=none C:/Users/rmita/Desktop/EE460M/Mital_Lab4/test.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Control4Adder
+
+Top level modules:
+	Control4Adder
+
+} {} {}} C:/Users/rmita/Desktop/EE460M/Mital_Lab4/DisplayModule.v {1 {vlog -work work -stats=none C:/Users/rmita/Desktop/EE460M/Mital_Lab4/DisplayModule.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module DisplayModule
+
+Top level modules:
+	DisplayModule
+
+} {} {}} C:/Users/rmita/Desktop/EE460M/Mital_Lab4/SynchSinglePulse.v {1 {vlog -work work -stats=none C:/Users/rmita/Desktop/EE460M/Mital_Lab4/SynchSinglePulse.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module SynchSinglePulse
+
+Top level modules:
+	SynchSinglePulse
+
+} {} {}} C:/Users/rmita/Desktop/EE460M/Mital_Lab4/ClkDivider.v {1 {vlog -work work -stats=none C:/Users/rmita/Desktop/EE460M/Mital_Lab4/ClkDivider.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ClkDivider
+
+Top level modules:
+	ClkDivider
+
+} {} {}} C:/Users/rmita/Desktop/EE460M/Mital_Lab4/BCDCounter.v {1 {vlog -work work -stats=none C:/Users/rmita/Desktop/EE460M/Mital_Lab4/BCDCounter.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module BCDCounter
+
+Top level modules:
+	BCDCounter
+
+} {} {}} C:/Users/rmita/Desktop/EE460M/Mital_Lab4/Control4Adder.v {1 {vlog -work work -stats=none C:/Users/rmita/Desktop/EE460M/Mital_Lab4/Control4Adder.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Control4Adder
+
+Top level modules:
+	Control4Adder
+
+} {} {}}
